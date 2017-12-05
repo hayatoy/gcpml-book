@@ -1,0 +1,7 @@
+[
+	{"name": "state", "type": "string", "mode": "nullable"},
+	{"name": "gender", "type": "string", "mode": "nullable"},
+	{"name": "year", "type": "integer", "mode": "nullable"},
+	{"name": "name", "type": "string", "mode": "nullable"},
+	{"name": "count", "type": "integer", "mode": "nullable"}
+]
